@@ -23,8 +23,6 @@ I am a Computer Science and Engineering (CSE) major passionate about software de
 - [**Project Name**](link-to-project): Another cool project you've worked on.
 - [**Project Name**](link-to-project): A fun or useful project that you're proud of.
 
-## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🌐 Let's Connect
 - LinkedIn: [Your LinkedIn](link)
