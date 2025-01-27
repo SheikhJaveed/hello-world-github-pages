@@ -18,16 +18,6 @@ I am a Computer Science and Engineering (CSE) major passionate about software de
 - **Machine Learning**: TensorFlow, Scikit-learn, Keras 
 - **Cloud**: AWS, Azure
 
-## 💼 Projects
-- [**Project Name**](link-to-project): A brief description of your project, technologies used, and what it achieves.
-- [**Project Name**](link-to-project): Another cool project you've worked on.
-- [**Project Name**](link-to-project): A fun or useful project that you're proud of.
-
-
-## 🌐 Let's Connect
-- LinkedIn: [Your LinkedIn](link)
-- Website/Portfolio: [Your Portfolio](link)
-- Email: [Your Email](mailto:your-email@example.com)
 
 ---
 
