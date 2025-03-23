@@ -15,9 +15,6 @@ I am a Computer Science and Engineering (CSE) major passionate about software de
 - **Frameworks**: Node.js, React, Flask, Django, Express
 - **Tools**: Git, Docker, VS Code, Postman, Jupyter
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Machine Learning**: TensorFlow, Scikit-learn, Keras 
-- **Cloud**: AWS, Azure
-
 
 ---
 
